@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(35deg, #ccffff, #ffcccc);
+  background-repeat: no-repeat;
+}
+
+main {
+  width: 60%;
+  margin: 10px auto;
+}
+
+#log-output-container {
+  width: 80%;
+  border: 1px solid silver;
+  height: 150px;
+  padding: 5px;
+  background-color: white;
+}
+
+.game-starting-output {
+  margin-bottom: 10px;
+}
+
+.invalid-output {
+  margin-bottom: 10px;
+}
+
+#start-game-btn {
+  margin-top: 10px;
+}
