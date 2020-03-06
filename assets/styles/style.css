@@ -30,6 +30,10 @@ main {
   margin-bottom: 10px;
 }
 
+.log-output {
+  margin-bottom: 10px;
+}
+
 #start-game-btn {
   margin-top: 10px;
 }
